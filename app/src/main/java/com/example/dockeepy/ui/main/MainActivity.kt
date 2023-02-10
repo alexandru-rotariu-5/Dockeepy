@@ -1,7 +1,8 @@
-package com.example.dockeepy
+package com.example.dockeepy.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.dockeepy.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
